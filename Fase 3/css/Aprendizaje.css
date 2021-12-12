@@ -1,0 +1,19 @@
+.menu{
+    width: 100%;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(170, 138, 97);
+}
+.menu li{
+    display: inline-block;
+}
+.menu li a{
+    padding: 10px 94px;
+    display: inline-block;
+    color: rgb(74, 95, 83);;
+}
+.menu li a:hover{
+    background-color: thistle;
+    color: black;
+}
